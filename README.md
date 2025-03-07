@@ -41,4 +41,9 @@ __Resetting__
 __Click the "RELOAD" button to refresh the page and start over.__
 
 
-__FOR MORE INFORMATION AND SUPPORT, CONTACT : https://t.me/rex_cc__
+# 👨🏻‍💻 FOR MORE INFORMATION AND SUPPORT 👨🏻‍💻
+
+[TELEGRAM](https://t.me/rex_cc) | 
+[FACEBOOK](https://www.facebook.com/graybyt3) | 
+[X](https://x.com/gray_byte) | 
+[INSTAGRAM](https://www.instagram.com/gray_byte)
