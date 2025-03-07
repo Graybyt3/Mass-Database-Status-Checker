@@ -33,7 +33,7 @@ __Input a list of database configurations in the textarea, one per line, in the 
 
 __host|user|password|db__
 
-__50.87.176.168|admin|pass123|mydb__
+__x.x.x.x|admin|pass123|mydb__
 __localhost|root|root123|testdb__
 __Click "CHECK" to start the bulk check process.__
 __Monitor the live status updates for each entry (e.g., "FAILED..." or "WORKING...").__
